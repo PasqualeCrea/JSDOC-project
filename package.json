@@ -1,0 +1,14 @@
+{
+  "name": "jsdoc-day2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "generateDocs": "./node_modules/.bin/jsdoc ./src -r"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jsdoc": "^3.6.7"
+  }
+}
